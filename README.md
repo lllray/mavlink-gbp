@@ -13,3 +13,4 @@ Key Links:
 * [Discussion/Support](https://mavlink.io/en/#support) (Slack)
 * [Contributing](https://mavlink.io/en/contributing/contributing.html)
 * [License](https://mavlink.io/en/#license)
+19.5.20
